@@ -1,5 +1,5 @@
 # abmSEIDR
-Agent-Based SEIRD Modelling of a Closed Community
+Agent-Based SEIRD Modelling of a Closed Community. **This is just a piece of work created by a student on a whim. Please don't take it seriously**.
 
 
 
