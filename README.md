@@ -30,7 +30,7 @@ python main.py
 ## Project Structure
 
 ```
-ABM/
+abmSEIDR/
 ├── SEIDR Model.ipynb		  # Data analysis notebook
 ├── main.py			  # Application entry point
 └── seidr_model/
